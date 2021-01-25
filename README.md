@@ -2,8 +2,7 @@
 
 ## When I'm not in class you can find me and my family out exploring. On one of our many hiking trails in the PNW or taking a road trip to discover new places.
 
-![Image of Grogu]
-(https://i.kym-cdn.com/photos/images/original/001/687/982/ee1.jpg)
+![Image of Grogu](https://i.kym-cdn.com/photos/images/original/001/687/982/ee1.jpg)
 
 ## Growth Mindset
 __Simply put, Growth Mindset is the belief that you continue to learn and evolve your your capabilities.__
