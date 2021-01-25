@@ -2,7 +2,7 @@
 
 ## Markdown is a way to styling text, controlling documents, formatting words, adding images and creating list, as well as so much more!
 
-Link to Google by (link to Google)(http://google.com)
+You can [link](http://google.com) to a website
 
 # Header
 ## Header
