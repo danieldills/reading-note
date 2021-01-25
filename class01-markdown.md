@@ -1,6 +1,6 @@
 # This is where you will take your notes on the reading material.
 
-## Markdown is a way to styling text, controlling documents and formatting words, adding images and creating list, as well as so much more!
+## Markdown is a way to styling text, controlling documents, formatting words, adding images and creating list, as well as so much more!
 
 Link to Google by (link to Google)(http://google.com)
 
