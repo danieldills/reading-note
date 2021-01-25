@@ -1,4 +1,4 @@
-# reading-note
+# reading-notes
 This is my repo for my codefellows reading notes.
 
 # Hello! My name is Daniel Dills. Prior to joining Code Fellows, I was an Army Civilian employee after serving in the United States Navy. I've always been interested in tech and I'm so happy to be pursuing a career as a software engineer.
