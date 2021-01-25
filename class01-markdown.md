@@ -30,3 +30,7 @@ Numbered list using
 1. Example
 1. Example
 
+
+
+## Author
+*Daniel Dills*
