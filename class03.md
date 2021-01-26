@@ -37,9 +37,9 @@ Head: Points to the most recent commit
 ### *git status* command line gives you current status
 
 ## Git ACP Process
-- Add *git add filename*
-- Commit *git commit -m “made change x,y,z”*
-- Push *git push origin master*
+- **Add** *git add filename*
+- **Commit** *git commit -m “made change x,y,z”*
+- **Push** *git push origin master*
 
 
 
