@@ -19,6 +19,8 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 # Table of Contents for Code 102
 - [class01 Markdown](class01.md)
 - [class02 The Coder's Computer](class02.md)
+- [Intro to Git](class03.md)
+
 
 
 ## Author
