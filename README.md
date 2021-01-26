@@ -16,6 +16,10 @@ __Simply put, Growth Mindset is the belief that you continue to learn and evolve
 
 If you have a moment, please check out my [GitHub Portfolio](https://github.com/danieldills)
 
+# Table of Contents Code 102
+
+
+
 ## Author
 Daniel Dills
 
