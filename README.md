@@ -16,8 +16,9 @@ __Simply put, Growth Mindset is the belief that you continue to learn and evolve
 
 If you have a moment, please check out my [GitHub Portfolio](https://github.com/danieldills)
 
-# Table of Contents Code 102
-
+# Table of Contents for Code 102
+- [class01 Markdown](class01.md)
+- [class02 The Coder's Computer](class02.md)
 
 
 ## Author
