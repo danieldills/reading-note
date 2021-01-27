@@ -6,3 +6,4 @@ HTML stands for Hyper Text Markup Language. HTML is the language used to create 
 ## Basic HTML5 Structure
 ![Image of HTML5 layout](http://www.basewebmaster.com/html/images/page-structure.gif)
 
+[<==Back](README.md)
