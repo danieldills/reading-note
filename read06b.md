@@ -7,4 +7,5 @@ A computer is an electronic device that manipulates information/data!
 - Processing *process information*
 - Output
 
-![image of how computer works](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hhs.hermon.net%2Fo%2Fpa-duran-school%2Fpage%2F3rd-grade-links--2&psig=AOvVaw0PvznsGq89-Gnc8OIVFQLz&ust=1611939438483000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi-w7-Mv-4CFQAAAAAdAAAAABAP)
+![image of how computer works](https://faee3700c89a706cf4c0-954a966593ea26dd28ebb3ba5e1e6362.ssl.cf1.rackcdn.com/uploads/1590457382-Screen_Shot_2020-05-25_at_9.30.32_PM.png)
+
