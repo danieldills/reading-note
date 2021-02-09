@@ -7,6 +7,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 ## Code 201 Reading Notes
 
 - [Read 01 Introductory HTML and JavaScript](class-01.md)
+- [Read 02 Basics of HTML, CSS & JSS](class-02.md)
 
 ## Code 102 Reading Notes
 
