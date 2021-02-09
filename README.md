@@ -8,6 +8,19 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 
 - [Read 01 Introductory HTML and JavaScript](class-01.md)
 - [Read 02 Basics of HTML, CSS & JSS](class-02.md)
+- [Read 03](class-03.md)
+- [Read 04](class-04.md)
+- [Read 05](class-05.md)
+- [Read 06](class-06.md)
+- [Read 07](class-07.md)
+- [Read 08](class-08.md)
+- [Read 09](class-09.md)
+- [Read 10](class-10.md)
+- [Read 11](class-11.md)
+- [Read 12](class-12.md)
+- [Read 13](class-13.md)
+- [Read 14](class-14.md)
+- [Read 15](class-15.md)
 
 ## Code 102 Reading Notes
 
@@ -24,6 +37,3 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 
 ## Author
 Daniel Dills
-
-
-
