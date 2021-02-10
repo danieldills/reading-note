@@ -27,4 +27,3 @@ CSS controls the design of web pages
 - IF Statements or If...Else statements
 
 [<== Back](README.md)
-
