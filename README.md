@@ -9,7 +9,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 01 Introductory HTML and JavaScript](class-01.md)
 - [Read 02 Basics of HTML, CSS & JSS](class-02.md)
 - [Read 03 HTLM Lists, Control Flow w/ JS, and CSS Box Model](class-03.md)
-- [Read 04](class-04.md)
+- [Read 04 HTML Links, JS Functions,Intro CSS Layout](class-04.md)
 - [Read 05](class-05.md)
 - [Read 06](class-06.md)
 - [Read 07](class-07.md)
