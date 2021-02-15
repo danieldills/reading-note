@@ -11,7 +11,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 03 HTLM Lists, Control Flow w/ JS, and CSS Box Model](class-03.md)
 - [Read 04 HTML Links, JS Functions,Intro CSS Layout](class-04.md)
 - [Read 05 Images, Color, Text](class-05.md)
-- [Read 06](class-06.md)
+- [Read 06 JS Object Literals; The DOM](class-06.md)
 - [Read 07](class-07.md)
 - [Read 08](class-08.md)
 - [Read 09](class-09.md)
