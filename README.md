@@ -15,7 +15,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 07 Object-Oriented Programming, HTML Tables](class-07.md)
 - [Read 08 CSS Layout](class-08.md)
 - [Read 09 Forms and JS Events](class-09.md)
-- [Read 10](class-10.md)
+- [Read 10 Error Handling & Debugging](class-10.md)
 - [Read 11](class-11.md)
 - [Read 12](class-12.md)
 - [Read 13](class-13.md)
