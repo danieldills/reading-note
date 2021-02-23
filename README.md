@@ -17,7 +17,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 09 Forms and JS Events](class-09.md)
 - [Read 10 Error Handling & Debugging](class-10.md)
 - [Read 11 Audio, Video, Images](class-11.md)
-- [Read 12](class-12.md)
+- [Read 12 Chart.js, Canvas](class-12.md)
 - [Read 13](class-13.md)
 - [Read 14](class-14.md)
 - [Read 15](class-15.md)
