@@ -19,8 +19,8 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 11 Audio, Video, Images](class-11.md)
 - [Read 12 Chart.js, Canvas](class-12.md)
 - [Read 13 Local Storage](class-13.md)
-- [Read 14](class-14.md)
-- [Read 15](class-15.md)
+- [Read 14a What Google Learned About Teams](class-14.md)
+- [Read 14b CSS Transforms, Transitions, and Animations](class-15.md)
 
 ## Code 102 Reading Notes
 
