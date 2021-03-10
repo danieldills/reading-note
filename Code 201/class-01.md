@@ -44,4 +44,3 @@ Wireframes is a simple layout of the key information of each webpage
  1. Code each step
 
  [<== Back](README.md)
- 
