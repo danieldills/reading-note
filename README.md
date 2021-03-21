@@ -23,6 +23,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Mongo and Mongoose](class12.md)
 - [CRUD](class13.md)
 - [Updating Resources](class14.md)
+- [ES6: Classes](class15.md)
 
 ## Code 201 - Foundations of Software Development
 
