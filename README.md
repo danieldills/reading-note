@@ -45,15 +45,15 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 
 ## Code 102 - Intro To Software Development
 
-- [Growth Mindset](code102/class01.md)
-- [Coders Computer](code102/class02.md)
-- [Intro to Git](code102/class03.md)
-- [Structure web pages w/ HTML](code102/class04.md)
-- [Design web page w/ CSS](code102/class05.md)
-- [Dynamic web pages w/ JavaScript](code102/class06a.md)
-- [Computer Architecture and Logic](code102/class06b.md)
-- [Programming w/ JavaScript](code102/class07.md)
-- [Operators and Loops](code102/class08.md)
+- [Growth Mindset](Code 102/class01.md)
+- [Coders Computer](Code 102/class02.md)
+- [Intro to Git](Code 102/class03.md)
+- [Structure web pages w/ HTML](Code 102/class04.md)
+- [Design web page w/ CSS](Code 102/class05.md)
+- [Dynamic web pages w/ JavaScript](Code 102/class06a.md)
+- [Computer Architecture and Logic](Code 102/class06b.md)
+- [Programming w/ JavaScript](Code 102/class07.md)
+- [Operators and Loops](Code 102/class08.md)
 
 ## Author
 Daniel Dills
