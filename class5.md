@@ -23,7 +23,7 @@
 
 If you can't find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
-Step 5: Add Inverse Data Flow
+### Step 5: Add Inverse Data Flow
 
 - Information can be passed from child to parent using a function, form components deep in the hierarchy need to update the state in parent components. Think about what you want to happen, and use accordingly. 
 
