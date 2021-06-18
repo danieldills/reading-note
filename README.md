@@ -9,9 +9,9 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 
 - [1st Python 401 Reading](class1.md)
 - [Testing and Modules](class2.md)
-- [FileIO & Exceptions](class3.md)
-- [4th Python 401 Reading](class4.md)
-- [Linked Lists](class5.md)
+- [FileIO & Exceptions](read3.md)
+- [4th Python 401 Reading](read4.md)
+- [Linked Lists](read5.md)
 - [Game of Greed 1](class6.md)
 - [Game of Greed 2](class7.md)
 - [Game of Greed 3](class8.md)
