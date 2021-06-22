@@ -12,7 +12,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [FileIO & Exceptions](read3.md)
 - [4th Python 401 Reading](read4.md)
 - [Linked Lists](read5.md)
-- [Game of Greed 1](class6.md)
+- [Game of Greed 1](read6.md)
 - [Game of Greed 2](class7.md)
 - [Game of Greed 3](class8.md)
 - [Game of Greed 4](class9.md)
