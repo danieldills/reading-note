@@ -18,7 +18,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Game of Greed 4](read9.md)
 - [Read 10](read10.md)
 - [Read 11](read11.md)
-- [Read 12](class12.md)
+- [Read 12](read12.md)
 - [Read 13](class13.md)
 - [Read 14](class14.md)
 - [Read15](class15.md)
