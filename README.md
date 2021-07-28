@@ -22,7 +22,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Linear Regression](read13.md)
 - [Read 14](read14.md)
 - [Trees](read15.md)
-- [Read 16](class16.md)
+- [Read 16](read16.md)
 - [Read 17](class17.md)
 - [Read 18](class18.md)
 - [Read 19](class19.md)
