@@ -25,7 +25,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Trees](read15.md)
 - [Read 16](read16.md)
 - [Read 17](read17.md)
-- [Read 18](class18.md)
+- [Read 18](read18.md)
 - [Read 19](class19.md)
 - [Read 20](class20.md)
 - [Read 21](class21.md)
