@@ -1,4 +1,5 @@
-## About Me
+# About Me
+
 Hello! My name is Daniel Dills. Prior to joining Code Fellows, I was an Army Civilian employee after serving in the United States Navy. I've always been interested in tech and I'm so happy to be pursuing a career as a software engineer.
 
 When I'm not in class you can find me and my family out exploring on one of the many hiking trails in the PNW or taking a road trip to discover new places.
@@ -23,7 +24,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 14](read14.md)
 - [Trees](read15.md)
 - [Read 16](read16.md)
-- [Read 17](class17.md)
+- [Read 17](read17.md)
 - [Read 18](class18.md)
 - [Read 19](class19.md)
 - [Read 20](class20.md)
