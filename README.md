@@ -27,7 +27,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Read 17](read17.md)
 - [Read 18](read18.md)
 - [Automation](read19.md)
-- [Read 20](class20.md)
+- [Intro to Django](read20.md)
 - [Read 21](class21.md)
 - [Read 22](class22.md)
 - [Read 23](class23.md)
