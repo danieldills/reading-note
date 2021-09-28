@@ -36,8 +36,10 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Django REST Framework & Docker](read26.md)
 - [Authentication & Production Server](read27.md)
 - [API Deployment](read28.md)
-- [read 29](read29.md)
+- [Graphs](read29.md)
 - [read 30](read30.md)
+- [read 31](read31.md)
+- [read 32](read32.md)
 
 ## Code 301 - Intermediate Software Development
 
