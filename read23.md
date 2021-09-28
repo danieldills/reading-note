@@ -110,7 +110,6 @@ And we're done! We can now run makemigrations and migrate for the first time to 
 (accounts) $ python manage.py migrate
 ```
 
-```py
 Superuser
 It's helpful to create a superuser that we can use to log in to the admin and test out log in/log out. On the command line type the following command and go through the prompts.
 
@@ -238,4 +237,3 @@ class SignUpView(CreateView):
 Ok, phew! We're done. Let's test it out.
 
 Start up the server with python manage.py runserver and go to the homepage at http://127.0.0.1:8000/.
-```

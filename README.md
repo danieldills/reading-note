@@ -32,7 +32,12 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Django CRUD and Forms](read22.md)
 - [Django Custom User](read23.md)
 - [Hashtable](read24.md)
-- [Read 25](read25.md)
+- [Django REST Framework & Docker](read25.md)
+- [read 26](read26.md)
+- [read 27](read27.md)
+- [read 28](read28.md)
+- [read 29](read29.md)
+- [read 30](read30.md)
 
 ## Code 301 - Intermediate Software Development
 
