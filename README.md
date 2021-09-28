@@ -30,7 +30,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Intro to Django](read20.md)
 - [Django Models](read21.md)
 - [Django CRUD and Forms](read22.md)
-- [Read 23](read23.md)
+- [Django Custom User](read23.md)
 - [Read 24](read24.md)
 - [Read 25](read25.md)
 
