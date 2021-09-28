@@ -37,7 +37,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Authentication & Production Server](read27.md)
 - [API Deployment](read28.md)
 - [Graphs](read29.md)
-- [read 30](read30.md)
+- [DSA Review](read30.md)
 - [read 31](read31.md)
 - [read 32](read32.md)
 
