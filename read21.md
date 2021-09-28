@@ -1,5 +1,7 @@
 # Django Models
 
+[source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
 Models are usually defined in an application's models.py file. They are implemented as subclasses of django.db.models.Model, and can include fields, methods and metadata. The code fragment below shows a "typical" model, named MyModelName:
 
 ```py
