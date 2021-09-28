@@ -35,7 +35,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Permissions & Postgresql](read25.md)
 - [Django REST Framework & Docker](read26.md)
 - [Authentication & Production Server](read27.md)
-- [read 28](read28.md)
+- [API Deployment](read28.md)
 - [read 29](read29.md)
 - [read 30](read30.md)
 
