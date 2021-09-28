@@ -31,7 +31,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Django Models](read21.md)
 - [Django CRUD and Forms](read22.md)
 - [Django Custom User](read23.md)
-- [Read 24](read24.md)
+- [Hashtable](read24.md)
 - [Read 25](read25.md)
 
 ## Code 301 - Intermediate Software Development
