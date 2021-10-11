@@ -39,7 +39,7 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Graphs](read29.md)
 - [DSA Review](read30.md)
 - [React I](read31.md)
-- [read32](read32.md)
+- [React II](read32.md)
 
 ## Code 301 - Intermediate Software Development
 
