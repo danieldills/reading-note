@@ -38,8 +38,8 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [API Deployment](read28.md)
 - [Graphs](read29.md)
 - [DSA Review](read30.md)
-- [read 31](read31.md)
-- [read 32](read32.md)
+- [React I](read31.md)
+- [read32](read32.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -90,4 +90,5 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [Operators and Loops](code102/class08.md)
 
 ## Author
+
 Daniel Dills
