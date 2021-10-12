@@ -40,6 +40,8 @@ If you have a moment, please check out my [GitHub Portfolio](https://github.com/
 - [DSA Review](read30.md)
 - [React I](read31.md)
 - [React II](read32.md)
+- [React 3](read33.md)
+- [React 4](read34.md)
 
 ## Code 301 - Intermediate Software Development
 
